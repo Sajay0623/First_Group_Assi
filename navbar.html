@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>navbar
+
+    </title>
+</head>
+<style>
+    #main{
+        display:grid;
+        grid-template-columns: repeat(10,10%);
+        grid-template-rows: repeat(1,50px);
+        border-radius: 10px;
+    }
+
+    #main>div{
+        text-align: center;
+        color: white;
+        background-color: rgb(6, 6, 34);
+       padding-top: 17px;
+    }
+
+    #main>div:nth-child(1){
+    border-bottom-left-radius:10px ;
+    border-top-left-radius: 10px;
+    }
+
+    #main>div:nth-child(10){
+    border-bottom-right-radius:10px ;
+    border-top-right-radius: 10px;
+    }
+</style>
+<body>
+    <div id="main">
+        <div>Reebok</div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div>Men</div>
+        <div>Women</div>
+        <div>Login</div>
+        <div>Signup</div>
+    </div>
+</body>
+</html>
