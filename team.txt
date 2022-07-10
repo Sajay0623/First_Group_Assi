@@ -1,7 +1,9 @@
 team name: 75
-team member:
-1:Ajay sahu
-2:Vijay Kumar
-3:Abhishek
-4:Raghuvendra
-5:Debabrata
+Hi this is the Collaborative Github Project 
+We are Working in a very good team
+our team members are
+Ajay Sahu                           Email : sajay9885@gmail.com
+Debabrata Satapathy                 Email: satapathy20001@gmail.com
+Raghavendra R Deshabhandari         Email : raghavendrardeshabhandari@gmail.com
+Abhishek Balwant Tijare             Email : abhishektijare09@gmail.com
+Vijay Kumar                         Email : rinkle.burman1996@gmail.com
